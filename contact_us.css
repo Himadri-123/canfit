@@ -1,0 +1,32 @@
+.contact{
+   
+    margin-top: 0px;
+    padding-left:0px;
+    padding-right: 0px;
+    padding-top: 30px;
+    
+    
+}
+#contact{
+    
+    text-size-adjust: 125px;
+}
+.container{
+    text-align: center;
+    text-size: 2px;
+}
+.float-center{
+    font-family: "PT Serif script=latin rev=1";
+    font-weight: 1000;
+    font-size: medium;
+    font-style: italic;
+}
+
+#con{
+    caret-color: rgb(39, 39, 190);
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+}
+.contact_list{
+  
+}
